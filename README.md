@@ -2,5 +2,5 @@
 
 ![calculator (Small)](https://github.com/esatiyev/Calculator/assets/108625030/3443eb43-4c9e-4547-b765-71894b138b19)
 
-![calculator1](https://github.com/esatiyev/Calculator/assets/108625030/8e0b2d25-76f3-42ec-8834-cc186c1f8b63)
 
+![calculator (Phone)](https://github.com/esatiyev/Calculator/assets/108625030/b9b7c63e-a4bd-49d0-863a-196d3f19d42b)
